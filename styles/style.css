@@ -32,6 +32,7 @@ body {
     color: white;
     font-size: 20px;
     font-weight: 700;
+    border-radius: 9px;
 }
 
 .header-pic {
@@ -126,11 +127,12 @@ body {
 /* section styles */
 .section {
     display: flex;
-    justify-content: space-between; 
+    justify-content: space-between;
     align-items: center;
     list-style: inline;
     margin-top: 200px;
-background: rgba(229, 84, 115, 0.05);
+    background: rgba(229, 84, 115, 0.05);
+    padding-bottom: 100px;
 
 
 }
@@ -141,6 +143,7 @@ background: rgba(229, 84, 115, 0.05);
     font-weight: 800;
     text-align: center;
     padding: 50px;
+    margin: 200px 300px 20px 300px;
 
 }
 
@@ -150,19 +153,45 @@ background: rgba(229, 84, 115, 0.05);
     font-size: 20px;
     font-weight: 400;
     text-align: center;
+    margin: 24px 200px 30px 380px;
 
 }
 
-.section-button {
-    background: #E55473;
-    color: white;
-    font-size: 20px;
-    font-weight: 700;
-    padding: 20px 43px;
-    text-align: center;
-    
-}
 .section-picture {
     width: 318px;
     height: 420px;
+    /* margin-left: 80px; */
+}
+
+/* .instagram */
+.instagram {
+    margin: ;
+}
+.instagram-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 128px 500px 24px 500px;
+}
+
+.instagram-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 24px 550px 45px 550px;
+}
+.instagram-picture {
+    margin:0px 100px 100px 200px ;
+
+}
+.instagram-picture-one {
+    margin-right: 18px;
+}
+.instagram-picture-two {
+    margin-right: 18px;
+}
+.instagram-picture-three {
+    margin-right: 18px;
 }
