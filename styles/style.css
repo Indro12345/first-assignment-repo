@@ -160,10 +160,9 @@ body {
 .section-picture {
     width: 318px;
     height: 420px;
-    /* margin-left: 80px; */
+
 }
 
-/* .instagram */
 .instagram {
     margin: auto;
 }
@@ -201,13 +200,12 @@ body {
     margin-right: 18px;
 }
 
-/* flower section styles */
 .flower-section {
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     display: flex;
-     margin: 132px 243px; 
-    /* background-position- */
+    margin: 132px 243px;
+
 
 
 
@@ -241,30 +239,35 @@ body {
     border-radius: 8px;
     background: #FFF;
 }
+
 /* footer styles */
 h2 {
     font-size: 48px;
     font-weight: 800;
     text-align: center;
-    color:#FFF;
+    color: #FFF;
 
 
 }
+
 .ame {
-    color:#E55473;
+    color: #E55473;
 }
+
 .flower {
     margin-top: 130px 0px 100px 0px;
     background: #111010;
 }
+
 .shop-description {
     color: gray;
     margin: 24px 600px 32px 600px;
     font-weight: 400;
     font-size: 26px;
 }
+
 .copy-shop {
-    color:gray;
+    color: gray;
     margin: 32px 784px 125px 784px;
     text-align: center;
     font-weight: 400;
