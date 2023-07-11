@@ -185,7 +185,7 @@ body {
 }
 
 .instagram-picture {
-    margin: 0px 100px 100px 200px;
+    margin: 0px 100px 100px 220px;
 
 }
 
@@ -206,7 +206,7 @@ body {
     background-image: url('../Flower\ Asset/Rectangle 9.png');
     background-repeat: no-repeat;
     display: flex;
-     margin: 128px 240px; 
+     margin: 132px 243px; 
     /* background-position- */
 
 
@@ -232,12 +232,41 @@ body {
 .section-contact input[type="email"] {
     margin: 48px 16px 120px 250px;
 
-    color: rgba(39, 39, 39, 0.60);
+
     text-align: center;
-    font-size: 16px;
+    font-size: 22px;
     font-weight: 400;
     width: 700px;
     height: 64px;
     border-radius: 8px;
     background: #FFF;
+}
+/* footer styles */
+h2 {
+    font-size: 48px;
+    font-weight: 800;
+    text-align: center;
+    color:#FFF;
+
+
+}
+.ame {
+    color:#E55473;
+}
+.flower {
+    margin-top: 130px 0px 100px 0px;
+    background: #111010;
+}
+.shop-description {
+    color: gray;
+    margin: 24px 600px 32px 600px;
+    font-weight: 400;
+    font-size: 26px;
+}
+.copy-shop {
+    color:gray;
+    margin: 32px 784px 125px 784px;
+    text-align: center;
+    font-weight: 400;
+    font-size: 26px;
 }
