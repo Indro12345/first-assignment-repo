@@ -165,8 +165,9 @@ body {
 
 /* .instagram */
 .instagram {
-    margin: ;
+    margin: auto;
 }
+
 .instagram-title {
     color: #272727;
     text-align: center;
@@ -182,16 +183,61 @@ body {
     font-weight: 400;
     margin: 24px 550px 45px 550px;
 }
+
 .instagram-picture {
-    margin:0px 100px 100px 200px ;
+    margin: 0px 100px 100px 200px;
 
 }
+
 .instagram-picture-one {
     margin-right: 18px;
 }
+
 .instagram-picture-two {
     margin-right: 18px;
 }
+
 .instagram-picture-three {
     margin-right: 18px;
+}
+
+/* flower section styles */
+.flower-section {
+    background-image: url('../Flower\ Asset/Rectangle 9.png');
+    background-repeat: no-repeat;
+    display: flex;
+     margin: 128px 240px; 
+    /* background-position- */
+
+
+
+}
+
+.flower-section-title {
+    color: #272727;
+    text-align: center;
+    font-size: 40px;
+    font-weight: 800;
+    margin: 122px 500px 16px 500px;
+}
+
+.flower-section-description {
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 18px;
+    font-weight: 400;
+    margin: 0px 600px 48px 600px;
+}
+
+.section-contact input[type="email"] {
+    margin: 48px 16px 120px 250px;
+
+    color: rgba(39, 39, 39, 0.60);
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+    width: 700px;
+    height: 64px;
+    border-radius: 8px;
+    background: #FFF;
 }
